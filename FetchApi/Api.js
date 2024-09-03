@@ -7,9 +7,6 @@
 // FetchApi()
 
 
-
-
-
 axios
   .get(' https://api.escuelajs.co/api/v1/users')
   .then(response => {
